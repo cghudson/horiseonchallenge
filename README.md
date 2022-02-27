@@ -1,5 +1,8 @@
 # Code Refactor Starter Code
 
+### Coded by Carolyn Hudson
+
+
 ### Description:
 The supplied starter code was modified to make the website more accessible and improve the codebase for long-term sustainability.
 
@@ -15,3 +18,5 @@ The following image demonstrates the web application's appearance and functional
 ### Link to deployed application:
 
 Here is a link to the finalized [Horiseon](https://github.com/cghudson/horiseonchallenge.git) project on GitHub.
+
+Link to [finalized application](https://cghudson.github.io/horiseonchallenge/) 
