@@ -1,6 +1,7 @@
 # Code Refactor Starter Code
 
 ### Coded by Carolyn Hudson
+
 ---
 
 ## Description:
@@ -11,7 +12,7 @@ The supplied starter code was modified to make the website more accessible and i
 ## Mockup Image:
 The following image demonstrates the web application's appearance and functionality:
 
-![Mock-up image of webpage titled "Horiseon"](./Develop/assets/images/horiseon-demo.png)
+![Mock-up image of webpage titled "Horiseon"](./assets/images/horiseon-demo.png)
 
 ---
 
