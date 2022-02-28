@@ -1,22 +1,22 @@
 # Code Refactor Starter Code
 
 ### Coded by Carolyn Hudson
+---
 
-
-### Description:
+## Description:
 The supplied starter code was modified to make the website more accessible and improve the codebase for long-term sustainability.
 
 ---
 
-### Mockup Image:
+## Mockup Image:
 The following image demonstrates the web application's appearance and functionality:
 
-![Mock-up image of webpage titled "Horizeon"](./Develop/assets/images/horiseon-demo.png)
+![Mock-up image of webpage titled "Horiseon"](./Develop/assets/images/horiseon-demo.png)
 
 ---
 
-### Link to deployed application:
+## Links:
 
-Here is a link to the finalized [Horiseon](https://github.com/cghudson/horiseonchallenge.git) project on GitHub.
+* GitHub [Repository](https://github.com/cghudson/horiseonchallenge.git)
 
-Link to [finalized application](https://cghudson.github.io/horiseonchallenge/) 
+* Deployed application [URL](https://cghudson.github.io/horiseonchallenge/) 
